@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prahladchandra
 - 👀 I’m interested in Software Engineering and Full-Stack Development
-- 🌱 I’m currently learning Python with Data Science
+- 🌱 I’m currently learning AI Python with Data Science
 - 💞️ I’m looking to collaborate on exciting software development projects and with other software engineers
 - 📫 How to reach me: [Email](mailto:prahladchandra11@gmail.com), [LinkedIn](https://www.linkedin.com/in/prahlad-chandra)
 - 💼 Available for freelance projects and collaborations
