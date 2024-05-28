@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "Prahlad Git lab",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus11.actions.githubusercontent.com/pCQifkdEQdckQQZLmbuHN8elsyNnvL02gpQIwXTnT5UpvWFIrL/",
+  "gitHubUrl": "https://github.com/prahladchandra/prahladchandra",
+  "workFolder": "_work"
+}
