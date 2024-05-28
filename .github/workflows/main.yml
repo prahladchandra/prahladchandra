@@ -24,3 +24,4 @@ jobs:
         env:
           WEATHERBIT_API_KEY: ${{ secrets.WEATHERBIT_API_KEY }}
         run: node fetchWeather.js
+
