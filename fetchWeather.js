@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 const API_KEY = process.env.OPENWEATHER_API_KEY;
-const CITY = 'Your City'; // Replace with your city
+const CITY = 'Updaipur'; // Replace with your city
 const URL = `http://api.openweathermap.org/data/2.5/weather?q=${CITY}&appid=${API_KEY}&units=metric`;
 
 const getWeather = async () => {
