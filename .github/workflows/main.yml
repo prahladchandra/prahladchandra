@@ -22,5 +22,5 @@ jobs:
 
       - name: Run Node.js Script
         env:
-          OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+          WEATHERBIT_API_KEY: ${{ secrets.WEATHERBIT_API_KEY }}
         run: node fetchWeather.js
