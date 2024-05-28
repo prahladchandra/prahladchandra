@@ -23,3 +23,6 @@ Today, the sun rises at <b>{{ sunrise }}</b> and sets at <b>{{ sunset }}</b>.</p
 **Testing**: Unit Testing, Integration Testing, Jest, Mocha  
 **Cloud Services**: AWS, Azure, Heroku  
 **Others**: Web Scraping, API Development, Real-Time Applications
+
+<!--WEATHER-->
+
